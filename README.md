@@ -20,5 +20,7 @@ https://github.com/AlaminRonya/supplyChainManagement
   • Spring Security
   • Combinator-Pattern (Form validation manual) 
   • Role-form login
+  • Regular expression
+  
 
 **Project Video Link:** https://drive.google.com/drive/folders/1axkpx5juJ-sCd-oKBjDPRmTNXEcrFHBg
