@@ -3,10 +3,10 @@ I am learning a lot while working on this project
 and my coding skills are improving. Thanks for 
 Therap BD Ltd (JavaFest-2022).
 
-**Link-1(Inventory Management):** 
+**Link-1(Inventory Management App):** 
 https://github.com/AlaminRonya/supplyChainManagement
 
-**Link-2(User):** 
+**Link-2(User App):** 
 https://github.com/AlaminRonya/supplyChainManagement
 
 **Technology:**
